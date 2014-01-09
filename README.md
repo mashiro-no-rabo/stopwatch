@@ -28,7 +28,7 @@ and these for output:
     - N12: on when writing to registers
     - P13: on when using recall_mode1
 
-For a demo session please see the included video.
+For a demo session please see [here](http://youtu.be/HIr7EuJo39I)
 
 ## 3. Model Design
 
