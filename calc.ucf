@@ -1,0 +1,32 @@
+NET 'clk' LOC='T9';
+
+NET 'start_in' LOC='L14';
+NET 'pause_in' LOC='L13';
+NET 'record_in' LOC='M14';
+NET 'recall_mode_in' LOC='M13';
+
+NET 'display_mode' LOC='K13';
+NET 'reg_address[0]' LOC='F12';
+NET 'reg_address[1]' LOC='G12';
+NET 'reg_address[2]' LOC='H14';
+NET 'reg_address[3]' LOC='H13';
+
+NET 'anode[0]' LOC='D14';
+NET 'anode[1]' LOC='G14';
+NET 'anode[2]' LOC='F14';
+NET 'anode[3]' LOC='E13';
+
+NET 'segment[0]' LOC='E14';
+NET 'segment[1]' LOC='G13';
+NET 'segment[2]' LOC='N15';
+NET 'segment[3]' LOC='P15';
+NET 'segment[4]' LOC='R16';
+NET 'segment[5]' LOC='F13';
+NET 'segment[6]' LOC='N16';
+NET 'segment[7]' LOC='P16';
+
+NET 'started_LED' LOC='P11';
+NET 'paused_LED' LOC='P12';
+
+NET 'write_LED' LOC='N12';
+NET 'mode_LED' LOC='P13';
