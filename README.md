@@ -269,7 +269,7 @@ But I just changed that line into `always @(negedge record_recall) begin` and re
 
 ## 5. HDL Synthesis
 
-(to be filled)
+see the files in `synthesis` folder.
 
 ## 6. Conclusion
 
